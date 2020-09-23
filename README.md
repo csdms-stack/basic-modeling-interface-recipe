@@ -1,8 +1,7 @@
+This repository has been archived.
+The package has been renamed *bmipy* and is now [built](https://github.com/conda-forge/bmipy-feedstock) on conda-forge.
 
-
-
-
-
+```
 # Current Build Status
 
 Linux, OSX: [![Build Status](https://travis-ci.org/csdms-stack/basic-modeling-interface-recipe.svg?branch=master)](https://travis-ci.org/csdms-stack/basic-modeling-interface-recipe)
@@ -41,3 +40,4 @@ $ conda search basic-modeling-interface --channel csdms-stack
 
 Version: [![Anaconda-Server Badge](https://anaconda.org/csdms-stack/basic-modeling-interface/badges/version.svg)](https://anaconda.org/csdms-stack/basic-modeling-interface)
 Downloads: [![Anaconda-Server Badge](https://anaconda.org/csdms-stack/basic-modeling-interface/badges/downloads.svg)](https://anaconda.org/csdms-stack/basic-modeling-interface)
+```
